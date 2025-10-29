@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Swarup Kumar Dupati
 
 ![Profile Banner](https://img.shields.io/badge/Portfolio-Visit-blue)  
-Email: swarupkumarfy@gmail.com | 📞 +91 6300199294 | 🌏 Ganapavaram, AP, INDIA
+Email: swarupkumarspacetech@gmail.com | 📞 +91 9493961174 | 🌏 Ganapavaram, AP, INDIA
 
 ## 🚀 Career Objective
 

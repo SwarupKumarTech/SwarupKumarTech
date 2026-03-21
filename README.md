@@ -47,17 +47,46 @@
 
 ## 📂 Projects
 
-🔐 **Multi-Model Biometric Authentication**  
-➡️ Face + Iris + Voice Recognition with OTP & Encryption  
+### 🔐 Multi-Model Biometric Authentication
+🛠️ Python, Machine Learning, SQL  
+- Developed a **secure authentication system** integrating face, iris, and voice recognition  
+- Implemented **OTP verification & encrypted data storage** for enhanced security  
+- Applied **KLDA & deep learning techniques** for accurate biometric feature fusion  
+- Designed to eliminate password dependency and improve system reliability  
 
-🔢 **Counter Application**  
-➡️ React Hooks | Real-time UI Updates  
+---
 
-🎉 **Lucky Draw Application**  
-➡️ Random Winner Generator with Animations & Sound  
+### 🔢 Counter Application
+🛠️ React JS, HTML, CSS, Bootstrap  
+- Built a **responsive React application** demonstrating real-time state management  
+- Utilized **React Hooks (useState)** for dynamic updates  
+- Designed **reusable components** with clean and scalable UI architecture  
+- Ensured seamless user experience across devices  
 
-🎬 **Movie Search App**  
-➡️ OMDB API | Axios | React Router  
+🔗 **Live Demo:** https://swarupkumartech.github.io/Counting-Application/
+
+---
+
+### 🎉 Lucky Draw Application
+🛠️ React JS, JavaScript, Web Audio API  
+- Created an **interactive random winner generator** with animations and sound effects  
+- Integrated **react-confetti** for engaging visual celebrations  
+- Used **Web Audio API** to enhance user feedback dynamically  
+- Built with a **modular and scalable component structure**  
+
+🔗 **Live Demo:** https://swarupkumartech.github.io/Lucky-Draw-Application/
+
+---
+
+### 🎬 Movie Search Application
+🛠️ React JS, Bootstrap, API Fetching  
+- Developed a **movie search app** using OMDB API for real-time data  
+- Implemented **dynamic search functionality** with Axios  
+- Used **React Router** for smooth navigation between pages  
+- Designed a **responsive and user-friendly interface** using Bootstrap  
+- Deployed project for live access  
+
+🔗 **Live Demo:** https://moive-fider.netlify.app/
 
 ---
 

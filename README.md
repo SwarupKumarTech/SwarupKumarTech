@@ -1,93 +1,109 @@
-# 👋 Hi, I'm Swarup Kumar Dupati
+<h1 align="center">🚀 Swarup Kumar Dupati</h1>
+<h3 align="center">💻 Front-End Developer | React JS Enthusiast | Future Full Stack Engineer</h3>
 
-📧 swarupspacetech@gmail.com  
-📱 +91 9493961174  
-🔗 [GitHub](#) | [Portfolio](#) | [LinkedIn](#)
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Building+Futuristic+Web+Experiences;React+Developer;Open+to+Opportunities;Tech+Explorer&center=true&width=500&height=45"></a>
+</p>
 
 ---
 
-## 🚀 Career Objective
-💡 Computer Science graduate skilled in **HTML, CSS, JavaScript, React JS, Bootstrap, Java, SQL, and GitHub**.  
-⚡ Passionate about building responsive, user-centric applications and solving real-world problems.  
-🎯 Quick learner, adaptable, and eager to contribute to innovative tech teams.
+## 🌐 Connect With Me
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=firefox"></a>
+</p>
+
+---
+
+## 🚀 About Me
+💡 Computer Science Graduate passionate about **modern web development**  
+⚡ Skilled in building **responsive & scalable applications**  
+🎯 Focused on **React JS & Front-End Development**  
+🔥 Always learning new technologies & improving problem-solving skills  
 
 ---
 
 ## 🎓 Education
-🎓 **B.Tech in Computer Science Engineering**  
-📍 Newton’s Institute of Engineering College  
-📊 7.37 CGPA (70%) | 🗓️ Dec 2021 – Jun 2025  
+🎓 **B.Tech (CSE)** – Newton’s Institute of Engineering College  
+📊 **7.37 CGPA (70%)**  
 
-📘 **Intermediate (MPC)**  
-📍 Jaya Bharathi Junior College  
-📊 5.75 CGPA (54.6%) | 🗓️ Jun 2019 – Jul 2021  
+📘 **Intermediate (MPC)** – Jaya Bharathi Junior College  
+📊 **5.75 CGPA (54.6%)**  
 
-🏫 **SSC**  
-📍 AP Urdu Residential School  
-📊 8.78 CGPA (83.4%) | 🗓️ Jun 2018 – Mar 2019  
+🏫 **SSC** – AP Urdu Residential School  
+📊 **8.78 CGPA (83.4%)**  
 
 ---
 
-## 🛠️ Technical Skills
-💻 HTML5, CSS3, JavaScript, React JS, Bootstrap  
-⚙️ Java  
-🗄️ SQL  
-🧰 Git, GitHub, Netlify  
-🗣️ Communication, Problem-Solving, Adaptability  
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,sql,git,github,vscode" />
+</p>
 
 ---
 
 ## 📂 Projects
 
-### 🔐 Multi-Model Biometric Authentication
-- Built a Python-based system using **face, iris & voice recognition**
-- Integrated **OTP & encrypted storage** for security
-- Used **KLDA & deep learning** for accuracy
+🔐 **Multi-Model Biometric Authentication**  
+➡️ Face + Iris + Voice Recognition with OTP & Encryption  
 
----
+🔢 **Counter Application**  
+➡️ React Hooks | Real-time UI Updates  
 
-### 🔢 Counter Application
-- React-based app with **real-time state updates**
-- Used **React Hooks** and reusable components
+🎉 **Lucky Draw Application**  
+➡️ Random Winner Generator with Animations & Sound  
 
----
-
-### 🎉 Lucky Draw Application
-- Random winner selection with **animations & sound**
-- Integrated **react-confetti & Web Audio API**
-
----
-
-### 🎬 Movie Search Application
-- Fetches data from **OMDB API**
-- Implemented **Axios + React Router**
-- Fully responsive UI
+🎬 **Movie Search App**  
+➡️ OMDB API | Axios | React Router  
 
 ---
 
 ## 🎓 Certifications
 
-📜 **Full Stack Web Development Internship** – Edureka  
-📜 **Python Programming Certification** – AI Tech Park  
-📜 **OOPS in C++ Certification** – Great Learning  
-📜 **Web Development Internship** – Oasis Infobyte  
-📜 **Python Workshop Certification** – Dhaaps  
-📜 **Complete Python Course** – Udemy  
-📜 **Viksit Bharat Young Quiz Participation**
+📜 Full Stack Web Development Internship – Edureka  
+📜 **Full Stack Web Development Bootcamp – Udemy** ✅  
+📜 Python Programming – AI Tech Park  
+📜 OOPS in C++ – Great Learning  
+📜 Web Development – Oasis Infobyte  
+📜 Python Workshop – Dhaaps  
+📜 Complete Python – Udemy  
+📜 Viksit Bharat Young Quiz  
 
 ---
 
 ## 🏆 Achievements
-🥇 State Level Art Competition – 1st Prize (Gold Medal)  
+🥇 State Level Art Competition – Gold Medal  
 🏐 District Level Player – Kho-Kho & Volleyball  
 
 ---
 
-## 👤 Personal Info
-🎂 18 July 2004  
-🌍 English | Telugu | Hindi | Urdu  
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
-💬 Open to internships, jobs, and collaborations 🚀
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+</p>
+
+---
+
+## 👁️ Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge">
+</p>
+
+---
+
+## 🤝 Let's Connect & Build Something Amazing
+💬 Open to **Internships | Full-Time | Freelance Opportunities**  
+🚀 Let's create the future together!

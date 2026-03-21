@@ -18,15 +18,6 @@
 
 ---
 
-## 📞 Contact Me
-
-📧 **Email:** swarupspacetech@gmail.com  
-📱 **Phone:** +91 9493961174  
-💻 **GitHub:** https://github.com/SwarupKumarTech  
-🔗 **LinkedIn:** http://www.linkedin.com/in/swarup-kumar-6a6071366  
-
----
-
 ## 🚀 About Me
 💡 Computer Science Graduate passionate about **modern web development**  
 ⚡ Skilled in building **responsive & scalable applications**  
@@ -136,6 +127,15 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SwarupKumarTech&color=blueviolet&style=for-the-badge">
 </p>
+
+---
+
+## 📞 Contact Me
+
+📧 **Email:** swarupspacetech@gmail.com  
+📱 **Phone:** +91 9493961174  
+💻 **GitHub:** https://github.com/SwarupKumarTech  
+🔗 **LinkedIn:** http://www.linkedin.com/in/swarup-kumar-6a6071366  
 
 ---
 

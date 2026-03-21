@@ -1,75 +1,93 @@
 # 👋 Hi, I'm Swarup Kumar Dupati
 
-![Profile Banner](https://img.shields.io/badge/Portfolio-Visit-blue)  
-Email: swarupspacetech@gmail.com | 📞 +91 9493961174 | 🌏 Ganapavaram, AP, INDIA
+📧 swarupspacetech@gmail.com  
+📱 +91 9493961174  
+🔗 [GitHub](#) | [Portfolio](#) | [LinkedIn](#)
+
+---
 
 ## 🚀 Career Objective
-
-Aspiring Computer Science graduate seeking to excel in the IT sector. I specialize in **Frontend Development** and am passionate about creating responsive, user-focused interfaces. My tech arsenal includes HTML, CSS, JavaScript, Java, Python, and Git. I’m committed to delivering quality solutions while continually adapting to new technologies and growing as a key contributor to innovative teams.
+💡 Computer Science graduate skilled in **HTML, CSS, JavaScript, React JS, Bootstrap, Java, SQL, and GitHub**.  
+⚡ Passionate about building responsive, user-centric applications and solving real-world problems.  
+🎯 Quick learner, adaptable, and eager to contribute to innovative tech teams.
 
 ---
 
 ## 🎓 Education
+🎓 **B.Tech in Computer Science Engineering**  
+📍 Newton’s Institute of Engineering College  
+📊 7.37 CGPA (70%) | 🗓️ Dec 2021 – Jun 2025  
 
-- 🏫 B.Tech, Newtons Institute of Engineering — *7.78 CGPA* (Dec 2021 – Jun 2025)
-- 📜 Board of Intermediate, Jaya Bharathi Junior College — *54.6%* (Jun 2019 – July 2021)
-- 🏫 AP Urdu Residential School — *83.4%* (Jun 2018 – Mar 2019)
+📘 **Intermediate (MPC)**  
+📍 Jaya Bharathi Junior College  
+📊 5.75 CGPA (54.6%) | 🗓️ Jun 2019 – Jul 2021  
 
----
-
-## 💻 Technical Skills
-
-- 🌐 **Web Technologies:** HTML, CSS, JavaScript
-- 🖥️ **Programming Languages:** Java, Python
-- 🗄️ **Database:** SQL
-- 💽 **Operating Systems:** Windows, Android, Linux
+🏫 **SSC**  
+📍 AP Urdu Residential School  
+📊 8.78 CGPA (83.4%) | 🗓️ Jun 2018 – Mar 2019  
 
 ---
 
-## 🏆 Projects
-
-### 1. 🔐 Enhanced Multi-Model Biometric Authentication (Python, SQL)
-*Team Size: 5*
-> Developed a security-focused authentication system using face, iris, and voice recognition. Leveraged Python and advanced methods (KLDA, deep learning) for feature fusion, and included OTP & voice matching for extra security.
-
-### 2. 🌟 Website Basic-Cloning
-- Built pixel-perfect front-end clones of **Netflix** and **Burger King** using HTML & CSS.
-- Focused on modern layouts, responsive design, and brand consistency.
+## 🛠️ Technical Skills
+💻 HTML5, CSS3, JavaScript, React JS, Bootstrap  
+⚙️ Java  
+🗄️ SQL  
+🧰 Git, GitHub, Netlify  
+🗣️ Communication, Problem-Solving, Adaptability  
 
 ---
 
-## 👨‍💻 Experience
+## 📂 Projects
 
-**Digital Blinc (Remote, Uttar Pradesh) — Intern**  
-_Feb 2025 – Jul 2025_  
-- Supported staff tasks, boosted efficiency, and contributed to product feature development for enhanced UX.
-- Built hands-on expertise with industry tools and concepts.
-
----
-
-## 🎉 Internships & Certifications
-
-- 🏅 FULL STACK Intern Program (EDUREKA)
-- 🏅 Full Stack Development (Digital Blinc)
-- 🏅 Python (AI Tech Park)
-- 🏅 OOPS in C++ (Great Learning)
-- 🏅 Python Workshop (DHAAPS)
+### 🔐 Multi-Model Biometric Authentication
+- Built a Python-based system using **face, iris & voice recognition**
+- Integrated **OTP & encrypted storage** for security
+- Used **KLDA & deep learning** for accuracy
 
 ---
 
-## 🌱 Personal Info
-
-- 🧑 Father’s Name: Sundar Rao Dupati
-- 🎂 Date of Birth: 18th July 2004
-- 🗣️ Languages: English, Telugu, Hindi, Urdu
-- 🏠 Address: Ganapavaram, Thripuranthaka, Praksam 523326
+### 🔢 Counter Application
+- React-based app with **real-time state updates**
+- Used **React Hooks** and reusable components
 
 ---
 
-## 🔗 Quick Links
-
-- [GitHub](https://github.com/RajKumarisnotmyname) | [LinkedIn](www.linkedin.com/in/swarup-kumar-6a6071366)
+### 🎉 Lucky Draw Application
+- Random winner selection with **animations & sound**
+- Integrated **react-confetti & Web Audio API**
 
 ---
 
-*Thank you for visiting my profile! Let's connect and build something amazing together 🚀*
+### 🎬 Movie Search Application
+- Fetches data from **OMDB API**
+- Implemented **Axios + React Router**
+- Fully responsive UI
+
+---
+
+## 🎓 Certifications
+
+📜 **Full Stack Web Development Internship** – Edureka  
+📜 **Python Programming Certification** – AI Tech Park  
+📜 **OOPS in C++ Certification** – Great Learning  
+📜 **Web Development Internship** – Oasis Infobyte  
+📜 **Python Workshop Certification** – Dhaaps  
+📜 **Complete Python Course** – Udemy  
+📜 **Viksit Bharat Young Quiz Participation**
+
+---
+
+## 🏆 Achievements
+🥇 State Level Art Competition – 1st Prize (Gold Medal)  
+🏐 District Level Player – Kho-Kho & Volleyball  
+
+---
+
+## 👤 Personal Info
+🎂 18 July 2004  
+🌍 English | Telugu | Hindi | Urdu  
+
+---
+
+## 🤝 Let's Connect
+💬 Open to internships, jobs, and collaborations 🚀

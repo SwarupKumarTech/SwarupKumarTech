@@ -18,6 +18,15 @@
 
 ---
 
+## 📞 Contact Me
+
+📧 **Email:** swarupspacetech@gmail.com  
+📱 **Phone:** +91 9493961174  
+💻 **GitHub:** https://github.com/SwarupKumarTech  
+🔗 **LinkedIn:** http://www.linkedin.com/in/swarup-kumar-6a6071366  
+
+---
+
 ## 🚀 About Me
 💡 Computer Science Graduate passionate about **modern web development**  
 ⚡ Skilled in building **responsive & scalable applications**  
@@ -84,7 +93,6 @@
 - Implemented **dynamic search functionality** with Axios  
 - Used **React Router** for smooth navigation between pages  
 - Designed a **responsive and user-friendly interface** using Bootstrap  
-- Deployed project for live access  
 
 🔗 **Live Demo:** https://moive-fider.netlify.app/
 

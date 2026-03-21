@@ -2,15 +2,17 @@
 <h3 align="center">💻 Front-End Developer | React JS Enthusiast | Future Full Stack Engineer</h3>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Building+Futuristic+Web+Experiences;React+Developer;Open+to+Opportunities;Tech+Explorer&center=true&width=500&height=45"></a>
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Futuristic+Web+Experiences;React+Developer;Open+to+Opportunities;Tech+Explorer&center=true&width=500&height=45">
+  </a>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/SwarupKumarTech"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="http://www.linkedin.com/in/swarup-kumar-6a6071366"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=firefox"></a>
 </p>
 
@@ -37,7 +39,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,sql,git,github,vscode" />
 </p>
@@ -80,26 +81,23 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=SwarupKumarTech&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarupKumarTech&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SwarupKumarTech&theme=react-dark" />
 </p>
 
 ---
 
 ## 👁️ Profile Views
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=SwarupKumarTech&color=blueviolet&style=for-the-badge">
 </p>
 
 ---

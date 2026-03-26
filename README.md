@@ -28,7 +28,7 @@
 
 ## 🎓 Education
 🎓 **B.Tech (CSE)** – Newton’s Institute of Engineering College  
-📊 **7.37 CGPA (70%)**  
+📊 **7.77 CGPA (70%)**  
 
 📘 **Intermediate (MPC)** – Jaya Bharathi Junior College  
 📊 **5.75 CGPA (54.6%)**  
